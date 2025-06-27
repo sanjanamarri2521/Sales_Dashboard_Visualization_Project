@@ -1,57 +1,60 @@
-#  Sales Dashboard Visualization Project | Tableau
+#  Sales & Customer Dashboard Visualization Project | Tableau
 
-This project presents an interactive and insightful **Sales Dashboard** built using **Tableau**, designed to help stakeholders monitor business performance, uncover trends, and explore key metrics across time, products, and regions.
+This project presents a set of interactive dashboards built using **Tableau**, designed to provide powerful business insights into sales and customer behavior. The dashboards offer intuitive navigation, time-based trends, profitability analysis, and top-performer breakdowns—all in a sleek, interactive design.
 
----
-## Datasets
-
-All cleaned datasets used in this project are available in the [`datasets/`](https://github.com/sanjanamarri2521/Sales_Dashboard_Visualization_Project/tree/main/datasets) folder of project repository.
+ **[View the Tableau Dashboard on Tableau Public](https://public.tableau.com/app/profile/sanjana.marri7771/viz/SalesDashboard_17510166613430/SalesDashboard?publish=yes)**
 
 ---
 
 ##  Objectives
 
-The goal of this dashboard is to:
-
 - Visualize overall sales, profits, and quantities sold  
-- Compare monthly sales, profits, and quantities between the current and previous year  
-- Identify high and low performing product categories  
-- Analyze trends over time and compare with historical benchmarks  
-- Enable interactive filtering across various dimensions
+- Compare monthly metrics between current and previous year  
+- Understand customer distribution, behavior, and profitability  
+- Identify top-performing product categories and customers  
+- Provide a seamless filter experience across dashboards
 
 ---
 
 ##  Dashboard Visuals
 
-###  Without Filters Panel
-![Sales Dashboard](images/Dashboard_WF.png)
+###  Sales Dashboard (No Filters Panel)
+![Sales Dashboard](images/Screenshot%202025-06-26%20183219.png)
 
-###  With Filters Panel Open
-![Sales Dashboard with Filters](images/Dashboard_F.png)
+###  Sales Dashboard (With Filters Panel Open)
+![Sales Dashboard with Filters](images/Screenshot%202025-06-26%20183239.png)
+
+---
+
+###  Customer Dashboard (No Filters Panel)
+![Customer Dashboard](images/Screenshot%202025-06-27%20043715.png)
+
+###  Customer Dashboard (With Filters Panel Open)
+![Customer Dashboard with Filters](images/Screenshot%202025-06-27%20043735.png)
 
 ---
 
 ##  Dashboard Features
 
-### 1. Time-Based KPI Tracking
-- Monthly trendlines for Sales, Profit, and Quantity  
-- Side-by-side comparison of current year vs previous year  
-- Visual highlights for highest and lowest performing months
-
-### 2. Product Subcategory Insights
-- Comparative sales view (current vs previous year)
-- Profitability analysis showing gainers vs loss-makers
-
-### 3. Weekly Sales & Profit Trends
-- Above/below average benchmarks
-- Patterns to reveal seasonal shifts and anomalies
-
-### 4. Interactive Filtering
-- Filter by:
+### 1.  Seamless Navigation
+- Two dashboards: **Sales** and **Customer**
+- Linked through **shared filters**:
   - Year  
-  - Product Category and Sub-Category  
-  - Region, State, and City  
-- Panel-based filter design for intuitive exploration
+  - Product Category & Subcategory  
+  - Region, State, City  
+- Allows consistent context when switching between dashboards
+
+### 2.  Sales Dashboard Highlights
+- KPIs: Total Sales, Profits, Quantity (YoY growth)
+- Monthly trends comparing current vs previous year
+- Subcategory breakdown with profit/loss bars
+- Sales & profit trendlines with average benchmarks
+
+### 3.  Customer Dashboard Highlights
+- KPIs: Total Customers, Orders, Sales per Customer
+- Monthly customer and order trends vs previous year
+- Distribution of customers by number of orders
+- Top 10 customers by profit, sales, and activity
 
 ---
 
@@ -63,12 +66,14 @@ The goal of this dashboard is to:
 
 ---
 
-## Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates the ability to:
 
-- Design interactive Tableau dashboards with clear KPIs  
-- Explore business data across time and categories  
+- Create connected dashboards with shared filters  
+- Design for both executive KPIs and detailed drilldowns  
+- Extract actionable insights using visuals and interactivity  
+- Combine product and customer intelligence for business impact 
 - Apply dynamic filters for multidimensional analysis  
 - Translate raw metrics into visual business stories
 
