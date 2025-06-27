@@ -19,18 +19,18 @@ This project presents a set of interactive dashboards built using **Tableau**, d
 ##  Dashboard Visuals
 
 ###  Sales Dashboard (No Filters Panel)
-![Sales Dashboard](images/Screenshot%202025-06-26%20183219.png)
+![Sales Dashboard](images/Sales_Dashboard_WF.png)
 
 ###  Sales Dashboard (With Filters Panel Open)
-![Sales Dashboard with Filters](images/Screenshot%202025-06-26%20183239.png)
+![Sales Dashboard with Filters](images/Sales_Dashboard_F.png)
 
 ---
 
 ###  Customer Dashboard (No Filters Panel)
-![Customer Dashboard](images/Screenshot%202025-06-27%20043715.png)
+![Customer Dashboard](images/Customer_Dashboard_WF.png)
 
 ###  Customer Dashboard (With Filters Panel Open)
-![Customer Dashboard with Filters](images/Screenshot%202025-06-27%20043735.png)
+![Customer Dashboard with Filters](images/Customer_Dashboard_F.png)
 
 ---
 
